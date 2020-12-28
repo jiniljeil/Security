@@ -47,7 +47,9 @@ upx -d flag
 ``` 
 <img src="./image/2.png"/>    
 사진과 같이 언패킹되었음을 확인할 수 있다.       
-위 작업이 모두 마무리되었다면, gdb를 통해 분석해준다.     
+위 작업이 모두 마무리되었다면, gdb를 통해 분석해준다.    
+      
+ 
 ```
 gdb -q flag 
 disas main        
