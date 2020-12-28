@@ -33,7 +33,7 @@ Thus, the result is same with bottom photo.
      
 <img src="./image/4.png"/>     
 <hr/>     
-## Conditions      
+##    Conditions      
 
 The first condition means that the cookie value named "oldzombie" should exist in the cookie.    
 The second condition means that mode=1 should exist in the URL.     
@@ -53,7 +53,7 @@ URL: you sholud include "?mode=1" behind the original url.
 <img src="./image/7.png"/>     
 
 <hr/>     
-## Join    
+##    Join     
 Thus, the page shows the join page. But, if you try to join with id named 'admin', the page will inform you to "'admin' is already existing id".       
 So, after using the proxy tool, you should add the whitespace & null character behind the entered ID like the bottom photo.     
 <img src="./image/8.png"/>     
