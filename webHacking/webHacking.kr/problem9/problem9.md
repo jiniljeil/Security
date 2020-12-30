@@ -113,6 +113,9 @@ if __name__== '__main__':
 In priority, After obtainning the length of the ID, find out the ID through keywords.   
 In the result, we can obtain the third ID like this.     
       
+### If you find it difficult to understand the code, refer to the bottom URL.  
+Python Request Module: <https://hongku.tistory.com/292>    
+
 <img src="./image/12.png"/>   
 
 Thus, if you enter it to password, it will be solved like this.    
