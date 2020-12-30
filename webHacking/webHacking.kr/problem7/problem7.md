@@ -45,6 +45,9 @@ The value of $go is stored by GET method, so we should input two(2) into <strong
 But, <strong>/2|-|\+|from|_|=|\\s|\*|\//i</strong> filter the input data that is (2, Operators, white space etc..). 
 Thus, we can access to ASCII CODE, so the ascii value of 2 is 50.   
 
+If you want to know about the <strong>Regular Expression</more>, refer to the bottom url.   
+url: <https://developer.mozilla.org/ko/docs/Web/JavaScript/Guide/%EC%A0%95%EA%B7%9C%EC%8B%9D>     
+
 ```
 select lv from chall7 where lv=($go)
 ```    
