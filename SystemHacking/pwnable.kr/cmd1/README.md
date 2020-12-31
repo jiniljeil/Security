@@ -13,7 +13,7 @@ ssh cmd1@pwnable.kr -p2222 (pw:guest)
 
 우선 어떤 파일이 존재하는지 확인해보면, 아래 사진과 같이 파일들이 구성됨을 알 수 있다.    
 
-<img src="./image/1.png" width="400px" height="200px"/>
+<img src="./image/1.png"/>
     
 다음 소스코드를 확인해보자.   
     
