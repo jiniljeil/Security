@@ -1,4 +1,4 @@
-Problem6
+Problem7
 ===========   
 
 This problem is in webhacking.kr.   
