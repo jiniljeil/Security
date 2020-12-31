@@ -42,7 +42,7 @@ r += strstr(cmd, "flag")!=0;
    
 ### SHELL SHOCK   
    
-<img src="./imgae/4.png"/>   
+<img src="./image/4.png"/>   
     
 그리하여, "/" 를 사용하지 않고 cat 명령을 실행하는 방법을 찾았다.    
 command 명령에 옵션 <strong>p</strong>를 사용한다면, 이를 우회할 수 있게 된다는 것이다.   
