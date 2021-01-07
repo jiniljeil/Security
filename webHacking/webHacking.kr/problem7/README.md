@@ -4,7 +4,7 @@ Problem7
 This problem is in webhacking.kr.   
 URL: <https://webhacking.kr/challenge/web-07/index.php?val=1>   
  
-If you enter in the URL, you can see like the bottom photo.     
+If you enter the URL, you can see a page like the below photo.     
     
 <img src="./image/1.png"/> 
     
@@ -14,7 +14,7 @@ Thus, let's go to the view-source link.
 
 <img src="./image/2.png"/>    
      
-### Let's pay attention to bottom the source code.   
+### Let's pay attention to the below the source code.   
     
 
 ```

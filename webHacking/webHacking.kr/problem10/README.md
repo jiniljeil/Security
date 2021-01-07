@@ -4,7 +4,7 @@ Problem10
 This problem is in webhacking.kr.   
 URL: <https://webhacking.kr/challenge/code-1//>   
  
-If you enter in the URL, you can see like the bottom photo.   
+If you enter the URL, you can see the below photo.   
       
 <img src="./image/1.png"/>   
 
@@ -46,7 +46,7 @@ Then, Modify the code like this.
 <strong>(Before)</strong> 
 onclick="this.style.left=parseInt(this.style.left,10)+1+'px';  
   
-<strong>(After)</strong>   
+<strong>(After)</strong> 
 onclick="this.style.left=1600+'px';    
    
 After modifying like this, click 'O' of the page.  

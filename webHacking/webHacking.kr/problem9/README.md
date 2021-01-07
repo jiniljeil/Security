@@ -4,7 +4,7 @@ Problem9
 This problem is in webhacking.kr.   
 URL: <https://webhacking.kr/challenge/web-09/>   
  
-If you enter in the URL, you can see like the bottom photo.   
+If you enter the URL, you can see a page like the below photo.   
       
 <img src="./image/1.png"/>   
 
@@ -12,14 +12,14 @@ If you enter in the URL, you can see like the bottom photo.
 
 <img src="./image/2.png"/>  
 
-If you click one, you can see the page like this.  
+If you click one, you can see a page like this.  
 Then, url of page is <https://webhacking.kr/challenge/web-09/?no=1>.     
 
 ### Second, Click 2    
 
 <img src="./image/3.png"/>    
 
-If you click two, you can see the page like this.   
+If you click two, you can see a page like this.   
 Then, url of page is <https://webhacking.kr/challenge/web-09/?no=2>.  
    
 ### Third, Click 3   
@@ -28,7 +28,7 @@ Then, url of page is <https://webhacking.kr/challenge/web-09/?no=2>.
 
 Likewise, only the 'no' value of URL changes to 3.   
 
-Based on that, if you change the value of 'no' to 4, you can see like the bottom photo.   
+Based on that, if you change the value of 'no' to 4, you can see a page like the below photo.   
 
 <img src="./image/11.png"/>    
     
@@ -113,7 +113,7 @@ if __name__== '__main__':
 In priority, After obtainning the length of the ID, find out the ID through keywords.   
 In the result, we can obtain the third ID like this.     
       
-### If you find it difficult to understand the code, refer to the bottom URL.  
+### If you find it difficult to understand the code, refer to the below URL.  
 Python Request Module: <https://hongku.tistory.com/292>    
 
 <img src="./image/12.png"/>   
